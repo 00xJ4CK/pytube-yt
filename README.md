@@ -1,5 +1,5 @@
 ``` 
-git clone https://github.com/00xJ4CK/pytube-ytgit
+git clone https://github.com/00xJ4CK/pytube-yt.git
 cd pytube-yt
 chmod +x *
 cat pytube-yt.py >> yt
@@ -9,6 +9,7 @@ cd
 mv yt ..
 cd ..
 mv yt usr/bin
+cd
 ```
 
 **
