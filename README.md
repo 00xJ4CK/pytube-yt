@@ -5,7 +5,7 @@ chmod +x *
 ./install.sh
 ```
 
-***
+**
 USAGE 
 ```
 To download Video = yt url --v v
