@@ -4,13 +4,8 @@ cd pytube-yt
 chmod +x *
 ./install.sh
 ```
-***
-ONE LINE CMD 
-```
-git clone https://github.com/00xJ4CK/pytube-yt.git;cd YOU_D;chmod +x *;./install.sh
-```
 
-**
+***
 USAGE 
 ```
 To download Video = yt url --v v
